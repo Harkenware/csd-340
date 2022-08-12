@@ -1,2 +1,3 @@
-# csd-340
-HTML &amp; CSS course repository
+# CSD 340 Web Development with HTML and CSS
+## ⋅ Melony Sue Sampson
+## ⋅ Christopher Morales
